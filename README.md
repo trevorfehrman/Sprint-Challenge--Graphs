@@ -7,7 +7,7 @@ Good luck and have fun! :smile:
 Note: The `legacy` directory contains an old exercise for archival purposes. You do not need to work on this and it will not be graded.
 
 # Sprint Challenge: Graphs
-
+hi
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored Graphs. During this Sprint, you studied breadth and depth first traversals and searches along with random graphs.
 
 You are provided with a pre-generated graph consisting of 500 rooms. You are responsible for filling `traversalPath` with directions that, when walked in order, will visit every room on the map at least once.
